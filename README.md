@@ -1,6 +1,8 @@
 ![logo](https://github.com/aditipandey852/aditipandey852/blob/main/Banner_image.png)
 <h1 align="center">Hi 👋, I'm Aditi Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">a 3rd-year BCA student</h3>
+<h3 align="center">passionate about web development and aspiring to excel in the field.</h3>
+
 
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
