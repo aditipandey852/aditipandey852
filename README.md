@@ -1,4 +1,4 @@
-![logo](https://github.com/aditipandey852/aditipandey852/blob/main/Banner_image.png)
+![logo](https://github.com/aditipandey852/aditipandey852/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Aditi Pandey</h1>
 <h3 align="center">a 3rd-year BCA student</h3>
 <h3 align="center">passionate about web development and aspiring to excel in the field.</h3>
