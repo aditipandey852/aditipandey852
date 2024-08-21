@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipandey852&label=Profile%20views&color=0e75b6&style=flat" alt="aditipandey852" /> </p>
 
-- 💬 Ask me about **python, react and MySQL**
+- 💬 Ask me about **HTML, CSS, python, react and MySQL**
 
 - 📫 How to reach me **aditipandey2004ind@gmail.com**
 
