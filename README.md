@@ -1,6 +1,6 @@
 ![logo](https://github.com/aditipandey852/aditipandey852/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Aditi Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">frontend developement</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipandey852&label=Profile%20views&color=0e75b6&style=flat" alt="aditipandey852" /> </p>
 
