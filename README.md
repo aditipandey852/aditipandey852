@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![MasterHead](background-img.webp)](github.com/aditipandey852)
+
 I'm currently working on MERN<br>I'm currently learning Node.js<br>Ask me about Python, MySQL, HTML, CSS, React
 
 
