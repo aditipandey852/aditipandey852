@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 아디티
 
 I'm currently working on MERN<br>I'm currently learning Node.js<br>Ask me about Python, MySQL, HTML, CSS, React
 
